@@ -7,7 +7,7 @@ Welcome to my data analytics portfolio! This repository highlights case studies 
 ## 👨‍💻 About Me  
 I am Joel Patton, a results-driven **IT Program Leader and Data Analyst** with 20+ years of experience leading IT operations, programs, and stakeholder engagement in federal environments, including **CISA and DISA**.  
 
-- 🔹 Skilled in **R, SQL, Tableau, and Python** for analytics  
+- 🔹 Proficient in **R, SQL, Tableau, and Python** for analytics  
 - 🔹 Strong background in **IT governance, cybersecurity, and program management**  
 - 🔹 Certified in **Google Data Analytics, IBM AI Product Manager, Google UX Design, Google Project Management**, and more  
 - 🔹 Passionate about bridging the gap between technical data and strategic decision-making  
