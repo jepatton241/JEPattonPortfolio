@@ -57,7 +57,7 @@ Highlights:
 ---
 
 ## 📸 Personal Touch  
-*(Optional: add your professional headshot here if you’d like)*  
+![Joel Patton](480734928_784652010014_3232648999651382859_n.jpg)
 
 ---
 
