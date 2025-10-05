@@ -38,7 +38,7 @@ I am Joel Patton, a results-driven **IT Program Leader and Data Analyst** with 2
 ---
 
 ## 📝 Resume  
-📄 [Download Resume](PATTON-JOEL%20USAJOBS%20Resume%209-15-25.docx)  
+📄 [Download Resume](PATTON-JOEL USAJOBS Resume Updated with Past Performance 10-1-25)  
 
 Highlights:  
 - Management & Program Analyst at **CISA** (GS-13)  
